@@ -12,7 +12,7 @@ The release binary is Windows 10+, 64-bit only. (Other platforms should work if 
 
 ## Usage
 
-* Download [UnityPackageExtractor.zip](/paulbartrum/UnityPackageExtractor/releases/latest) from the Releases tab.
+* Download [UnityPackageExtractor.zip](https://github.com/paulbartrum/UnityPackageExtractor/releases/latest) from the Releases tab.
 * Extract into a new directory
 * Drag and drop your `.unitypackage` onto `UnityPackageExtractor.exe` (this will output into the same directory as your package file) OR
 * Run from the command line with `UnityPackageExtractor.exe [path/to/your/package.unitypackage] (optional/output/path)`
