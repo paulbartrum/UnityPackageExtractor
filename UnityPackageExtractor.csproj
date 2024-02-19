@@ -9,6 +9,7 @@
     <OptimizationPreference>Size</OptimizationPreference>
     <RuntimeIdentifier>win-x64</RuntimeIdentifier>
     <InvariantGlobalization>true</InvariantGlobalization>
+    <Version>1.0</Version>
   </PropertyGroup>
 
   <ItemGroup>
