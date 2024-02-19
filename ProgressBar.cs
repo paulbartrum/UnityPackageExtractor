@@ -1,6 +1,6 @@
 ﻿using System.Text;
 
-// https://gist.github.com/DanielSWolf/0ab6a96899cc5377bf54
+// Sourced from https://gist.github.com/DanielSWolf/0ab6a96899cc5377bf54
 // Code is under the MIT License: http://opensource.org/licenses/MIT
 
 /// <summary>
