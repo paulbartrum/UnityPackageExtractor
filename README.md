@@ -18,4 +18,4 @@ The release binary is Windows 10+, 64-bit only. (Other platforms should work if 
 * Run from the command line with `UnityPackageExtractor.exe [path/to/your/package.unitypackage] (optional/output/path)`
 
 Note: Unity packages should first be downloaded using the package manager inside Unity.
-The .unitypackage file should then be available under the package cache directory (which as of this writing is: `%APPDATA%\Roaming\Unity\Asset Store-5.x`).
+The .unitypackage file should then be available under the package cache directory (which as of this writing is: `%APPDATA%\Unity\Asset Store-5.x`).
